@@ -1,5 +1,6 @@
 # 3D-Tinkercad-Design_files
 A collection of 10+ 3D designs created in Tinkercad and Fusion 360, exploring CAD modeling and prototyping.
+Fusion360 designs have the link below  to vist and view
 
 ## Contents
 ### 🔹 Tinkercad Projects
